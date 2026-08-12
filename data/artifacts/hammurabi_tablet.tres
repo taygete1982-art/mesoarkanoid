@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="ArtifactData" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/artifact_data.gd" id="1_hammurabi"]
+
+[resource]
+script = ExtResource("1_hammurabi")
+id = "hammurabi_tablet"
+name = "Таблица Хаммурапи"
+rarity = "legendary"
+description = "Древний базальтовый столб со сводом законов. Начертанные на нем клинописные строки пассивно укрепляют и расширяют твою кедровую платформу на 10%."
+bonus_type = "paddle_width"
+bonus_value = 0.1
+is_unlocked = false
