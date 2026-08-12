@@ -8,7 +8,7 @@
 
 config_version=5
 
-"Р“Р‡Р’В»Р’С—config_version"=5
+"Р вЂњР вЂЎР вЂ™Р’В»Р вЂ™РЎвЂ”config_version"=5
 
 [animation]
 
@@ -35,3 +35,6 @@ window/stretch/mode="canvas_items"
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
 textures/vram_compression/import_etc2_astc=true
+viewport/hdr_2d=true
+2d/glow/glow_filter_quality=2
+2d/glow/glow_bicubic_upsSCALE=true
